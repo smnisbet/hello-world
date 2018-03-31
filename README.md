@@ -1,5 +1,4 @@
 # hello-world
 Hello World!
 
-This is for an assignment! Hurray!
-~smnisbet
+This is for an assignment! Hurray for learning!
